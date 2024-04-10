@@ -1,0 +1,11 @@
+flask processor
+set up the basic application
+route to accept POST requests containing JSON data
+parse the data to extract free text query
+process query( search for relevant docs based on nltk
+return a response (docs)
+
+flask snippets
+-  POSTMAN to check if queries run through
+
+current project is not yet a package that  can be used and shipped
